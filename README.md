@@ -38,4 +38,4 @@ The dashboard offers visual representations of these metrics over time, making i
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/hr-insights-dashboard.git
+   git clone https://github.com/de-pesh/HR-Data-Analysis-and-Dashboard.git
