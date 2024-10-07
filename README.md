@@ -12,7 +12,7 @@ The **HR Insights Dashboard** focuses on three key metrics:
 
 The dashboard offers visual representations of these metrics over time, making it easier to track fluctuations, analyze trends, and identify areas for improvement.
 
-![Dashboard Overview](./path/to/screenshot.png)
+![Dashboard Overview](./dashboard.png)
 
 ## Features
 
