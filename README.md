@@ -39,3 +39,30 @@ The dashboard offers visual representations of these metrics over time, making i
 1. Clone this repository to your local machine.
    ```bash
    git clone https://github.com/de-pesh/HR-Data-Analysis-and-Dashboard.git
+   ```
+
+2.	Open the Power BI .pbix file in Power BI Desktop.
+3.	Load your dataset (if not already included) and refresh the report to ensure all data is up to date.
+4.	Use the Date Range filter at the top right to select the period you’d like to analyze.
+5.	Review the key metrics, trends, and employee data to get insights into HR performance.
+
+### Key Visuals
+
+-	Attendance % Over Time: A green line chart showing attendance trends, highlighting significant dips or increases in employee presence.
+-	Sick Leave % Over Time: A red line chart visualizing sick leave patterns, with spikes indicating periods where sick leave was higher than average.
+-	Work From Home % Over Time: A blue line chart showing trends in WFH percentages, helping you track remote work patterns.
+-	Day of Week Analysis: Breakdown of attendance, WFH, and SL percentages by each day of the week for a detailed understanding of weekly trends.
+
+### Customization
+
+You can customize the dashboard according to your organization’s needs:
+
+-	Add new metrics or dimensions.
+-	Modify the date filters to provide more flexible date ranges.
+-	Update the employee list and ensure data refresh functionality is active for live data updates.
+
+### Future Improvements
+
+-	Add more advanced filters like department, role, or location for deeper insights.
+-	Include additional KPIs such as overtime, vacation, or leave balances.
+-	Implement predictive analytics to forecast future attendance trends based on historical data.
