@@ -61,7 +61,7 @@ You can customize the dashboard according to your organization’s needs:
 -	Modify the date filters to provide more flexible date ranges.
 -	Update the employee list and ensure data refresh functionality is active for live data updates.
 
-### Future Improvements
+### Future Improvements  
 
 -	Add more advanced filters like department, role, or location for deeper insights.
 -	Include additional KPIs such as overtime, vacation, or leave balances.
